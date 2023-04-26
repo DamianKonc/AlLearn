@@ -18,6 +18,11 @@ table 50100 "Reward"
             MaxValue = 100;
             DecimalPlaces = 2;
         }
+        field(4; "Minimum Purchase"; Decimal)
+        {
+            MinValue = 0;
+            DecimalPlaces = 2;
+        }
     }
 
     keys

@@ -24,6 +24,10 @@ page 50102 "Reward List"
                 {
                     ApplicationArea = All;
                 }
+                field("Minimum Purchase"; Rec."Minimum Purchase")
+                {
+                    ApplicationArea = All;
+                }
             }
         }
     }

@@ -22,6 +22,10 @@ page 50101 "Reward Card"
                 {
                     ApplicationArea = All;
                 }
+                field("Minimum Purchase"; Rec."Minimum Purchase")
+                {
+                    ApplicationArea = All;
+                }
             }
         }
     }
