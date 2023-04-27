@@ -20,6 +20,7 @@ page 50101 "Reward Card"
                 }
                 field("Discount Percentage"; Rec."Discount Percentage")
                 {
+                    ToolTip = 'Specifies the level of reward that the customer has at this point.';
                     ApplicationArea = All;
                 }
                 field("Minimum Purchase"; Rec."Minimum Purchase")
